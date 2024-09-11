@@ -1,7 +1,7 @@
 # Git Practice
 A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
 
-Below is an article talking about some [statistics](https://radixweb.com/blog/software-development-statistics) of software engineering. It helps us to get a better understanding of software engineering industry. 
+Below is an article talking about some [statistics of software engineering](https://radixweb.com/blog/software-development-statistics). It helps us to get a better understanding of software engineering industry. 
 
 ## Most Popular Programming Language ##
 It is surprising to me that JavaScript is the most popular programming language in 2024, with 22.5 million developers globally. And Python ranks second with 9 million active developers, followed by Java in third place with 8.2 million developers. 
