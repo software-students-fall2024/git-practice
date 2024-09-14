@@ -1,6 +1,6 @@
 # Git Practice: Article Response 
 
-***1. Link to an article or web site you find interesting related to software development/engineering:**
+**1. Link to an article or web site you find interesting related to software development/engineering:**
 Tittle: U.S. Prepares to Challenge Google’s Online Ad Dominance
 Link: https://www.nytimes.com/2024/09/09/technology/google-ads-antitrust-trial.html?searchResultPosition=2
 
