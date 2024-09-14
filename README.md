@@ -1,10 +1,10 @@
 # Git Practice: Article Response 
 
-##1. Link to an article or web site you find interesting related to software development/engineering:
+## 1. Link to an article or web site you find interesting related to software development/engineering:
 Tittle: U.S. Prepares to Challenge Google’s Online Ad Dominance
 Link: https://www.nytimes.com/2024/09/09/technology/google-ads-antitrust-trial.html?searchResultPosition=2
 
-##2. A paragraph or two about what you find interesting about that article:
+## 2. A paragraph or two about what you find interesting about that article:
 
 A software known as Google Ad Manager, owned by Google, has been receiving controversial backlash over selling private user information. Google Ad Manager is a tool used by websites around the world to sell ads. The technology conducts split-second auctions to place ads each time a user loads a page. During my summer internship at their main competitor, we referred to this process as autobidding.
 
