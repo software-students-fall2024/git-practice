@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+<p> A software article I find interesting: [The Tolls of a Blind Programmer](https://www.parhamdoustdar.com/2016/04/03/tools-of-blind-programmer/)</p>
+
+<p> I find this article interesting because this shows how the methods one person uses to develop software may work for them but not for others. Each individual has to find the environment, setup and tools that work for them. Specifically, there are tools for people to help visualize their work process and flow of thought that can be more helpful to certain people than others. There is no absoulute correct aproach to development, and software engineering/ development is a form of creativity in itself. </p>
