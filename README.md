@@ -11,3 +11,6 @@ In my research, which focuses on 3-qubit models, the control and manipulation of
 This progression aligns with my interests in exploring how logical qubits can enhance our understanding of complex phenomena, particularly in chemistry and physics, where accurate simulations of molecular structures are game-changers. The hybrid approach also underscores the importance of classical-quantum synergy, an area I find particularly intriguing as it mirrors the methods we are exploring to optimize and refine quantum operations on a smaller scale.
 
 In essence, the strides made by Microsoft and Quantinuum offer a glimpse into the future of quantum research, bridging the gap between theoretical models and practical applications. My work on 3-qubit systems at NYUAD feels like a foundational piece of this larger puzzle, contributing to the nuanced understanding necessary to support the next generation of quantum technologies. This article not only inspires but also provides a clear trajectory of how my current research might one day play a role in achieving similar breakthroughs.
+
+### My comment on article, by Safia Billah
+Your summary very well describes the significance of Microsoft and Quantinuum's achievement while also drawing meaningful connection to your own 3-qubit research at NYUAD. I like how you highlight scaling and coherence in quantum systems. 
