@@ -2,7 +2,7 @@
 
 Written by Krysta Svore
 Link: https://azure.microsoft.com/en-us/blog/quantum/2024/09/10/microsoft-and-quantinuum-create-12-logical-qubits-and-demonstrate-a-hybrid-end-to-end-chemistry-simulation/
-#
+# My Thoughts
 
 The recent Microsoft and Quantinuum collaboration on creating 12 logical qubits and demonstrating a hybrid end-to-end chemistry simulation is particularly fascinating and highly relevant to my ongoing 3-qubit research at NYUAD. This development signifies a critical leap in quantum computing, highlighting the power of scaling up qubit systems while maintaining logical coherence and control. The achievement of 12 logical qubits isn’t just a technical milestone; it showcases the potential of hybrid quantum-classical approaches, which are becoming essential as we push the boundaries of what quantum systems can solve.
 
