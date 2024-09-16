@@ -57,3 +57,6 @@ Piet is a visually inspired programming language developed in 2005. Programs are
 
 ## Julie Chen's Comment
 This is an entertaining article that shows a more creative and playful side of programming! It is funny to see how there were established languages made for unpractical uses.
+
+## Maddy Li's Comment
+This article is very interesting and fun! I never think about how many programming languages exist but are never used- especially ones as unique and pointless as these. 
