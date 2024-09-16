@@ -4,5 +4,8 @@ Here is an interesting [article](https://eev.ee/blog/2016/07/26/the-hardest-prob
 P.S. Eevee is cute. 
 
 # Comment
+=======
+- Chloe Han : It was intriguing to read an articule on the subject I've not deeply thought about, but is actually important to software engineers. Terms like vectors, list and arrays could be a bit confusing when it comes to multiple languages like c/c++, java, javascript,..etc. And Eevee is ideed cute!
+
 It's interesting to see how the same terms within computer science can vary in their exact meanings depending on the context. I wonder if as time goes on we'll be able to see
 a more universal nomenclature. (James Whitten)
