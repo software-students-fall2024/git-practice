@@ -1,2 +1,3 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+I recently came across [this article](https://www.nytimes.com/2024/04/03/technology/prevent-cyberattack-linux.html) when I was doing research for a Journalism project. The project entailed searching for coverage of cybersecurity and cyberattacks to see how the media was able to cover complex subjects they might not have background knowledge about. This particular article concerns a hidden backdoor found by a software engineer. 
