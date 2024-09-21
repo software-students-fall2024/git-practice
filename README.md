@@ -1,5 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
 
 Below is an article talking about some [statistics of software engineering](https://radixweb.com/blog/software-development-statistics). It helps us to get a better understanding of software engineering industry. 
 
