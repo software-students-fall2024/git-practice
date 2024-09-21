@@ -13,4 +13,4 @@ The widespread use of open-source code is evident, with 97% of applications inco
 
 ## Comment by Nicole
 It actually does not surprise me because Javascript is suitable for both frontend and backend developemnt. Node's non blocking feature also make it working well for IO bound app development. A lot of npm modules are also very useful in simplfying tasks. 
-In addition, I also using Java to develop a robust program because it is **object oriented**! 
+In addition, I also using Java to develop a robust program because it is **object oriented**! Hope one day one language can be useful in all cases!
